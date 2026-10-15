@@ -1,3 +1,1 @@
-Minha Escala v2.1 — GitHub Pages
-
-Envie TODOS os arquivos desta pasta para a raiz da branch main do repositório MinhaEscala. O QR de compartilhamento aponta para https://cleibsonsilva.github.io/MinhaEscala/. O QR Pix é a imagem enviada pelo usuário. Configurações mostram apenas a alteração de escala. As datas eleitorais gerais são calculadas para 2026 e ciclos de 4 anos; o segundo turno pode não ocorrer e a jornada especial deve ser confirmada com a empresa.
+Minha Escala 2.3 — PWA GitHub Pages. Inclui avisos para 30 e 31 de dezembro e orientação de instalação no primeiro uso conforme Android/iPhone. Extraia todos os arquivos na raiz da branch main. O aviso de instalação aparece uma única vez por navegador, após configurar a escala. A instalação depende do navegador e de seus critérios de elegibilidade.
