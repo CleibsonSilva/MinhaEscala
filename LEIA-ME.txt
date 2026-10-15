@@ -1,0 +1,1 @@
+CineLista v11 — GitHub Pages. Busca por filmes e séries em português usando Wikipédia em português, com alternativas Apple e TVmaze. Os resultados são sugestões: escolha um para preencher. Nenhuma chave é necessária. Envie os quatro arquivos principais ao GitHub.
