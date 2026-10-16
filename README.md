@@ -1,1 +1,1 @@
-Meu Contracheque v4 — Fechamento de 21 a 20, pagamento estimado no dia 05, horas extras sugeridas por dia (seg–qui 2h, sex 3h, sáb 9h), alteração para 100%, registro em outras datas e almoço retroativo. Faça backup antes de atualizar. Substitua os arquivos na raiz do GitHub Pages.
+Meu Contracheque v5: registro rápido na mesma tela, opções expansíveis, calendário nativo para datas alternativas, botões para remover registros existentes. Substitua os arquivos no GitHub Pages. Faça backup antes de atualizar.
