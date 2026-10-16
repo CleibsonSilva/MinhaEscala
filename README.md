@@ -1,1 +1,1 @@
-Meu Contracheque v5: registro rápido na mesma tela, opções expansíveis, calendário nativo para datas alternativas, botões para remover registros existentes. Substitua os arquivos no GitHub Pages. Faça backup antes de atualizar.
+Minha Escala 2.3 — PWA GitHub Pages. Inclui avisos para 30 e 31 de dezembro e orientação de instalação no primeiro uso conforme Android/iPhone. Extraia todos os arquivos na raiz da branch main. O aviso de instalação aparece uma única vez por navegador, após configurar a escala. A instalação depende do navegador e de seus critérios de elegibilidade.
